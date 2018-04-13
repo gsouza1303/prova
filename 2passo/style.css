@@ -1,0 +1,25 @@
+form{
+	text-align: center;
+	border: 1px dotted #000;
+	width: 80%;
+	padding: 10px;
+	background-color: rgb(0, 136, 218);
+	font-weight: normal;
+	font-size: 15px;
+	font-family: helvetica;
+}
+
+fieldset.index{
+	width: 30%;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+input{
+	color: rgb(0, 136, 218);
+	font-family: helvetica;
+	font-size: 13px;
+	font-weight: bold;
+}
+
